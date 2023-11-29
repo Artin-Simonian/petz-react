@@ -1,0 +1,22 @@
+.navbar ul {
+  display: flex;
+  justify-content: end;
+}
+
+.navbar li {
+  margin: 0 10px;
+  list-style: none;
+}
+
+.navbar-link {
+  color: #000;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.navbar-link:hover{
+    color: aqua;
+    cursor: pointer;
+    text-shadow: #000 1px 1px;
+}
