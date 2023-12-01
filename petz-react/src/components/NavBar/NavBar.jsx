@@ -16,6 +16,11 @@ export default function NavBar() {
             About
           </Link>
         </li>
+        <li>
+          <Link className="navbar-link" to="/Developer">
+            Developer
+          </Link>
+        </li>
       </ul>
     </nav>
   );
