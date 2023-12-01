@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Dhurjati&display=swap");
+
 .navbar ul {
   display: flex;
   justify-content: end;
@@ -13,10 +15,10 @@
   text-decoration: none;
   font-size: 20px;
   font-weight: 600;
+  font-family: "Dhurjati", sans-serif;
 }
 
-.navbar-link:hover{
-    color: aqua;
-    cursor: pointer;
-    text-shadow: #000 1px 1px;
+.navbar-link:hover {
+  color: #00B9FF;
+  cursor: pointer;
 }
