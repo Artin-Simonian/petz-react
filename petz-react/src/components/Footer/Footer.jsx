@@ -1,7 +1,10 @@
+import './Footer.css'
+
+
 export default function Footer(){
     return(
-        <div>
-            <footer>Artin Simonian</footer>
+        <div className="footer-wrapper">
+            <footer>Petz | &copy; Artin Simonian 2023</footer>
         </div>
     );
 }
