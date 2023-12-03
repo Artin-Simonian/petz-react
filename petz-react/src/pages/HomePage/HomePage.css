@@ -1,0 +1,8 @@
+.homepage{
+    background-image: url('https://i.imgur.com/yaaQvAI.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 80vh;
+    text-align: center;
+}
