@@ -1,9 +1,9 @@
-import './HomePage.css'
+import "./HomePage.css";
 
-export default function HomePage(){
-    return(
-        <div className="homepage">
-            <h1>HomePage</h1>
-        </div>
-    );
+export default function HomePage() {
+  return (
+    <div className="homepage">
+      <h1>Pets</h1>
+    </div>
+  );
 }

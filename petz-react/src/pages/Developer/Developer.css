@@ -1,0 +1,14 @@
+.developer img {
+  height: 500px;
+}
+
+.developer p {
+  font-size: 30px;
+  font-family: "Dhurjati", sans-serif;
+}
+
+.developer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
